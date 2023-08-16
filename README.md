@@ -5,4 +5,4 @@ This project was intended on solidifying my knowledge on basic control principle
 
 Currently Pack Bionics is working on taking this a step further by adding a real model, adding a swing-up control, and by testing other control methods (LQR for example).  Again, you can visit the Pack Bionics Github page for more details.
 
-![Alt Text]()
+![Alt Text](https://github.com/awkyu/inverted_pendulum/blob/main/invertedPendulumAnimation.gif)
